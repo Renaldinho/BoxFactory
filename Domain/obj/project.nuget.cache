@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qTK7g15F3Hx92s2diMahmkABINctzAIEGaYGlGWeUgEPSNE26dWd49UbUIX5SdAqVa/Ouv+0mFKpeyWXuiWMAw==",
+  "dgSpecHash": "wcNC9Ncts/69eyGDLJsXQLWJkOpqUvR4Y/OSavFSd6b5RshSsaTO3IyOgHIEHxx5A3EM+k8zGUOVUQWiwsY5nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\RiderProjects\\ProperProject_Assignment\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\GitHub\\BoxFactory\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0-rc.2.22472.11\\microsoft.data.sqlite.core.7.0.0-rc.2.22472.11.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-rc.2.22472.11\\microsoft.entityframeworkcore.7.0.0-rc.2.22472.11.nupkg.sha512",

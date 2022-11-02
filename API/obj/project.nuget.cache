@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4bTMmfO7CWIt8QGE6pW192sec3Oln/qVtiUaRxQrv4Fd1Ffsa6jra/6m7G2fn7mpBq7IKocaHOFwgtQCl4gsg==",
+  "dgSpecHash": "Ay1C4R8cx+pF4nfgGdbh90WTsGCJONlVCTyszcTdIJFlTX01h8dXrzPxgrX/QWy9ZjpqKnXafQi8Bzzp+06VOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\RiderProjects\\ProperProject_Assignment\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\GitHub\\BoxFactory\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

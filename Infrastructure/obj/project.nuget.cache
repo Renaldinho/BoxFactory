@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KtUpKVUh7+MGUX/5BwRAC8NPHjHmFvAC1nYvOQpmlinn3qhzG/ItjA/DXC0qyxp5XK6RwZObMWxGWPF3m3ubHA==",
+  "dgSpecHash": "jzT7OQUTMY1NuCarRV9eIoJFdkAj1LaDs4Dzz0nAchM7vnBYvYpTFdOlK7hm7d46EQIDHTwnEfwB1mpmQ32bQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\RiderProjects\\ProperProject_Assignment\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\GitHub\\BoxFactory\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
